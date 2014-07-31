@@ -1,0 +1,26 @@
+{
+  "name": "js-codeclimate-test-bom",
+  "version": "0.0.0",
+  "description": "CodeClimate Test: BOM",
+  "keywords": [
+    "CodeClimate"
+  ],
+  "homepage": "https://github.com/gardejo/js-codeclimate-test-bom",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gardejo/js-codeclimate-test-bom.git"
+  },
+  "author": {
+    "name": "MORIYA Masaki, alias Gardejo",
+    "url": "http://gardejo.org"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0"
+  }
+}
